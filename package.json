@@ -1,0 +1,20 @@
+{
+    "name": "com.bigeti.quitgameapplicationextension",
+    "version": "1.0.0",
+    "displayName": "Unity \"Quit\" game application extension",
+    "description": "This package contains an easy and elegant function to quit a game application.",
+    "dependencies": {},
+    "keywords": [
+        "app",
+        "application",
+        "exit",
+        "game",
+        "leave",
+        "quit"
+    ],
+    "author": {
+        "name": "Ethem Kurt",
+        "email": "bigeti.ethem@gmail.com",
+        "url": "https://bigeti.de/"
+    }
+}
